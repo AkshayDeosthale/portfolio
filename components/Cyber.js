@@ -5,7 +5,7 @@ const Cyber = () => {
   return (
     <div className="p-5  space-y-10">
       <div className="w-full h-auto flex flex-col items-center text-center border-2 border-gray-500 rounded-3xl p-3 space-y-10">
-        <Image src={"/frontend.svg"} height="50px" width="50px" />
+        <Image src={"/network.svg"} height="50px" width="50px" />
         <p className=" text-2xl font-semibold text-orange-600">
           Network security specialist
         </p>
